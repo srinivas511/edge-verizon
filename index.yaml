@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  edge-demo-verizon:
+  - apiVersion: v1
+    appVersion: "2.0"
+    created: 2019-06-12T11:13:55.442721-05:00
+    description: Edge Demo Aplication
+    digest: 33f74e09edc9e01343fdb98790ee94e6a043d8a6ed3101ec0e7f1acb2d8d80c7
+    name: edge-demo-verizon
+    urls:
+    - https://github.com/srinivas511/edge-verizon/edge-demo-verizon-2.0.0.tgz
+    version: 2.0.0
+generated: 2019-06-12T11:13:55.440834-05:00
